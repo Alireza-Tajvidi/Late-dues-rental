@@ -1,0 +1,5 @@
+C:\Users\parsa\Desktop\Morya\Latency\Latency\Latency\obj\Debug\Latency.csproj.AssemblyReference.cache
+C:\Users\parsa\Desktop\Morya\Latency\Latency\Latency\obj\Debug\Latency.Form1.resources
+C:\Users\parsa\Desktop\Morya\Latency\Latency\Latency\obj\Debug\Latency.Properties.Resources.resources
+C:\Users\parsa\Desktop\Morya\Latency\Latency\Latency\obj\Debug\Latency.csproj.GenerateResource.cache
+C:\Users\parsa\Desktop\Morya\Latency\Latency\Latency\obj\Debug\Latency.csproj.CoreCompileInputs.cache
